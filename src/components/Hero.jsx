@@ -6,7 +6,7 @@ const Hero = () => {
     >
       <div className="absolute inset-0">
         <img
-          src="/images/event1.jpg"
+          src="/images/event2.jpg"
           alt="Event"
           className="h-full w-full object-cover"
         />
